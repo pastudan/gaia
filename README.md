@@ -2,6 +2,7 @@ Gaia: A decentralized high-performance storage system
 ====================================
 
 [![codecov](https://codecov.io/gh/blockstack/gaia/branch/master/graph/badge.svg)](https://codecov.io/gh/blockstack/gaia)
+[![KubeSail](https://img.shields.io/badge/1%20Click-Deploy%20on%20Kubernetes-blue)](https://kubesail.com/template/pastudan/my-deployment)
 
 This document describes the high-level design and implementation of the
 Gaia storage system. It includes specifications for backend storage drivers
